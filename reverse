@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Enter a word:"
-read shivani
+read devops
 
 reverse=$(echo $word | rev)
 echo "Reversed word: $reverse" 
